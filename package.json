@@ -1,0 +1,23 @@
+{
+  "name": "app-marstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marstore/app-marstore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marstore/app-marstore/issues"
+  },
+  "homepage": "https://github.com/Marstore/app-marstore#readme",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
